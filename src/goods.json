@@ -1,0 +1,82 @@
+[
+  {
+    "id": 0,
+    "name": "Hoa quả",
+    "picture": "images/0c016b8caa1a2d6a4205e539ddc7af78.png"
+  },
+  {
+    "id": 1,
+    "name": "Sữa tắm",
+    "picture": "images/0d4d4d3fc3144ef05a423a8b6268fe0e.png"
+  },
+  {
+    "id": 2,
+    "name": "Quạt phun sương",
+    "picture": "images/0e45b1b78e183364847bfcf51fb58216.jpg"
+  },
+  {
+    "id": 3,
+    "name": "Giày thế thao",
+    "picture": "images/1ae5e8482af228840dd9e8b5f9fc6522.jpg"
+  },
+  {
+    "id": 4,
+    "name": "Máy là hơi",
+    "picture": "images/1af385ac87ab2b63b4c4226627a50bd1.jpg"
+  },
+  {
+    "id": 5,
+    "name": "Máy hút bụi",
+    "picture": "images/1c7fd41aa8ed94fb192ae43ae9843f4a.jpg"
+  },
+  {
+    "id": 6,
+    "name": "Lõi lọc nước",
+    "picture": "images/3a087b2300c04544e3bc57d96eb0879b.jpg"
+  },
+  {
+    "id": 7,
+    "name": "Cờ lê",
+    "picture": "images/4a64eeedd11301506fe5c3ee9e4b4a88.jpg"
+  },
+  {
+    "id": 8,
+    "name": "Máy hút bụi",
+    "picture": "images/4bce3f6fc29487f8d5a95c1f0d25b342.jpg"
+  },
+  {
+    "id": 9,
+    "name": "Máy lọc nước",
+    "picture": "images/5dea4d5b5dcd9a9efc2b0668c3ce96ef.jpg"
+  },
+  {
+    "id": 10,
+    "name": "Máy lọc nước",
+    "picture": "images/5e8857ede068616299bd20423ae74063.jpg"
+  },
+  {
+    "id": 11,
+    "name": "Quạt cầm tay",
+    "picture": "images/6c0e7b68f1d285fc7eaeddc15742fe8f.jpg"
+  },
+  {
+    "id": 12,
+    "name": "Robot hút bụi",
+    "picture": "images/6f4eea4222bcc8d8a651e513f782c5fb.jpg"
+  },
+  {
+    "id": 13,
+    "name": "Máy ủi",
+    "picture": "images/8d0f27b30d5acb6dcfbdf1b71d8737d1.jpg"
+  },
+  {
+    "id": 14,
+    "name": "Quạt điều hòa",
+    "picture": "images/7f23ec539ab2752f08145f63f54e12fa.jpg"
+  },
+  {
+    "id": 15,
+    "name": "Loa",
+    "picture": "images/9d6b73be3f14b3c74026c15fe26f4bea.jpg"
+  }
+]
